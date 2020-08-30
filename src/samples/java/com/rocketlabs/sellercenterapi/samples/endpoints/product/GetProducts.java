@@ -14,9 +14,9 @@ public class GetProducts {
         /**
          * Runtime configuration
          */
-        SellerCenter.apiKey = Config.apiKey;
-        SellerCenter.userId = Config.userId;
-        SellerCenter.url = Config.url;
+        SellerCenter.apiKey = electronyque@gmail.com;
+        SellerCenter.userId = 382620c56efbdae6a477f0b87f4adc6cb0ef22c8;
+        SellerCenter.url = https://sellercenter-api.jumia.ma?Action=GetProducts&Filter=all&Format=XML&Timestamp=2020-08-30T02%3A40%3A35%2B01%3A00&UserID=electronyque%40gmail.com&Version=1.0&Signature=fbc50d8faa9ee68397b9af1516453dbcb64deb68bef59d90847c29d8f0e1dae9;
 
         /**
          * Call the API
